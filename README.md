@@ -1,0 +1,3 @@
+# norminette
+
+This project is at its early age, still full of hope and dreams...
